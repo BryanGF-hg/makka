@@ -1,0 +1,35 @@
+# S
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+
+#P
+__pycache__/
+*.py[cod]
+*$py.class
+ai/.venv/
+.venv/
+venv/
+
+#L
+*.log
+/tmp/
+tmp/
+
+# ER
+mds/
+mdas/
+versiones de chat/
+Untitled File
+zideas.txt
+
+#IT
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
